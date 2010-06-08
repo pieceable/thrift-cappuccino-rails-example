@@ -1,0 +1,7 @@
+== Thrift/Cappuccino on Rails Example ==
+
+See app/controllers/thrift_controller.rb for an example of an HTTP endpoint that works with the Cappuccino client.
+
+== Live Demo ==
+
+http://thrift-cappuccino-example.heroku.com
